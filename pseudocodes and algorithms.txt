@@ -1,0 +1,43 @@
+Pesudocode q1
+START
+//INPUT
+INPUT NUM1
+INPUT NUM2
+// CONDITIONAL STATEMENTS
+IF NUM1> NUM2 AND NUM1>NUM3
+	PRINT "Num 1 is alrgest"
+ELSE IF NUM2>NUM1 AND NUM2>NUM3
+	PRINT "Num 2 is largest"
+ELSE 
+	PRINT "Num 3 is largest"
+END
+
+Pseduocode q2
+START 
+INPUT HOURS
+//VARIABLES AND INITIALIZATION
+SET FIRSTHOUR = 5
+SET REMAININGHOUR = 3
+SET Totalcost = 0
+//CONDITIONAL STATEMENT
+IF HOURS<0 
+	PRINT "Invalid"
+ELSE 
+	IF HOURS <=1 THEN
+		SET Totalcost = 5
+	ELSE
+		SET Totalcost = 5 + FLOOR(HOURS-1)* REMAININGHOUR
+PRINT "The total fee is" + Totalcost
+END
+
+ALGO 1
+- Ask user to input total days
+- Ask user to input present days
+- Set percentageattended to presentdays/totaldays *100
+- If percentage is less than 75 display "Warning: Attendence is too low"
+
+ALGO 2
+- Ask the user to input hours
+- Ask the user to input payrate
+- Set Grosspay to (hours* payrate)
+- Display grosspay to the user
