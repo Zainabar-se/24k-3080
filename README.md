@@ -1,7 +1,7 @@
 # 24k-3080- About me
 My name is Zainab Ali and I am currently doing my Bachelors in Software enginerring from **Fast** . I did my Olevels and Alevel in Pre-Eng but I also had computers as a subject. My hobbies are drawing, reading and solving puzzles. 
 
-## Goals for the ** First semester **
+## Goals for the **First semester**
 
 In this first semester I have **the following goals:**
 - Get better at programming
